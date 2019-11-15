@@ -1,18 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+October 20th 2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare data
 
 ### Description
-Describe what your project is about and what it does
+This project provides bikeshare data for 3 different cities
 
 ### Files used
-Include the files used
+Bikeshare python file plus 3 csv files for each city
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 ### branch
 Added new branch called documentation
-
